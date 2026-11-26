@@ -1,45 +1,56 @@
 <div align="center">
 
-<!-- Animated Wave Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:D4AF37&height=200&section=header&text=MD%20Sahil&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=18" width="100%" />
+<!-- ULTRA PRO MAX HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:05070A,45:111827,80:92400E,100:FBBF24&height=210&section=header&text=MD%20SAHIL&fontSize=64&fontColor=FFFBEB&animation=twinkling&fontAlignY=36&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%80%A2%20PYTHON%20%7C%20DJANGO%20%7C%20REACT%20%7C%20APIs&descAlignY=62&descSize=16&descColor=FDE68A" width="100%" />
 
-<!-- Dynamic Typing Animation -->
+<!-- MULTI-LINE AUTO-TYPING SHOWCASE -->
 <a href="https://github.com/sahilshaikh00067">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+Scalable+Full-Stack+Architectures;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+REST+APIs;Crafting+High-Performance+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=95&lines=Architecting+High-Scale+Full+Stack+Web+Systems;Python+%E2%80%A2+Django+%E2%80%A2+DRF+%E2%80%A2+React+%E2%80%A2+MySQL+%E2%80%A2+Docker;Turning+Complex+Business+Logic+Into+Fast+Products" alt="Animated Typing Headline" />
 </a>
 
 <br/>
 
-<!-- Social & Portfolio Badges -->
+<!-- ACTION PILLS & LIVE PROFILE TELEMETRY -->
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-05070A?style=for-the-badge&logo=vercel&logoColor=FBBF24" alt="Portfolio" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sahilshaikh00067">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sahilshaikh00067&label=PROFILE%20VIEWS&color=D97706&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/HIRE_ME-D97706?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sahilshaikh00067&label=PROFILE+VIEWS&color=B45309&style=for-the-badge" alt="Views" />
 </p>
 
 </div>
 
 ---
 
-<!-- Interactive Terminal / System Overview -->
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Animation" />
+## 🧠 Engineering Identity & Execution
 
-## ⚡ `whoami` — Engineering Philosophy
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-```typescript
-const sahil = {
-  role: "Full Stack Web Developer",
-  location: "Mumbai, India 🇮🇳",
-  code: ["Python", "JavaScript", "TypeScript", "SQL"],
-  frameworks: ["Django", "Django REST Framework", "React", "Tailwind CSS"],
-  architecture: ["RESTful APIs", "Microservices", "MVC", "Scalable DB Design"],
-  currentFocus: "Building production-grade, high-conversion web platforms",
-  status: "Open to high-impact collaborations & engineering roles"
-};
+### ⚡ `profile.json`
+
+```json
+{
+  "engineer": "MD Sahil",
+  "title": "Full Stack Web Developer",
+  "base": "Mumbai, India",
+  "coreStack": ["Python", "Django", "React", "JavaScript", "REST APIs"],
+  "dataAndInfra": ["MySQL", "PostgreSQL", "Docker", "Git", "Linux"],
+  "strengths": [
+    "End-to-End Full Stack Delivery",
+    "Clean RESTful API Architecture",
+    "Responsive & Conversion-Focused UI",
+    "Scalable Relational Database Design"
+  ],
+  "availability": "Available for Full-Time & High-Impact Builds"
+}
